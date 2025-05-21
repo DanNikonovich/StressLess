@@ -1,0 +1,14 @@
+D:\3 курс\Практика C#\лб3\zad2\zad2\obj\Debug\net6.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\Практика C#\лб3\zad2\zad2\obj\Debug\net6.0\zad2.AssemblyInfoInputs.cache
+D:\3 курс\Практика C#\лб3\zad2\zad2\obj\Debug\net6.0\zad2.AssemblyInfo.cs
+D:\3 курс\Практика C#\лб3\zad2\zad2\obj\Debug\net6.0\zad2.csproj.CoreCompileInputs.cache
+D:\3 курс\Практика C#\лб3\zad2\zad2\bin\Debug\net6.0\zad2.exe
+D:\3 курс\Практика C#\лб3\zad2\zad2\bin\Debug\net6.0\zad2.deps.json
+D:\3 курс\Практика C#\лб3\zad2\zad2\bin\Debug\net6.0\zad2.runtimeconfig.json
+D:\3 курс\Практика C#\лб3\zad2\zad2\bin\Debug\net6.0\zad2.dll
+D:\3 курс\Практика C#\лб3\zad2\zad2\bin\Debug\net6.0\zad2.pdb
+D:\3 курс\Практика C#\лб3\zad2\zad2\obj\Debug\net6.0\zad2.dll
+D:\3 курс\Практика C#\лб3\zad2\zad2\obj\Debug\net6.0\refint\zad2.dll
+D:\3 курс\Практика C#\лб3\zad2\zad2\obj\Debug\net6.0\zad2.pdb
+D:\3 курс\Практика C#\лб3\zad2\zad2\obj\Debug\net6.0\zad2.genruntimeconfig.cache
+D:\3 курс\Практика C#\лб3\zad2\zad2\obj\Debug\net6.0\ref\zad2.dll

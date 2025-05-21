@@ -1,0 +1,14 @@
+E:\УП C#\2 лб\Задание 2\Задание 2\bin\Debug\net8.0\Задание 2.exe
+E:\УП C#\2 лб\Задание 2\Задание 2\bin\Debug\net8.0\Задание 2.deps.json
+E:\УП C#\2 лб\Задание 2\Задание 2\bin\Debug\net8.0\Задание 2.runtimeconfig.json
+E:\УП C#\2 лб\Задание 2\Задание 2\bin\Debug\net8.0\Задание 2.dll
+E:\УП C#\2 лб\Задание 2\Задание 2\bin\Debug\net8.0\Задание 2.pdb
+E:\УП C#\2 лб\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\УП C#\2 лб\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.AssemblyInfoInputs.cache
+E:\УП C#\2 лб\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.AssemblyInfo.cs
+E:\УП C#\2 лб\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.csproj.CoreCompileInputs.cache
+E:\УП C#\2 лб\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.dll
+E:\УП C#\2 лб\Задание 2\Задание 2\obj\Debug\net8.0\refint\Задание 2.dll
+E:\УП C#\2 лб\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.pdb
+E:\УП C#\2 лб\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.genruntimeconfig.cache
+E:\УП C#\2 лб\Задание 2\Задание 2\obj\Debug\net8.0\ref\Задание 2.dll
