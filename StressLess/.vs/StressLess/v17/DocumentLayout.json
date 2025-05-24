@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0423\u041F C#\\StressLess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{866345D6-3D09-4C1A-A86E-A5F191E093E5}|StressLess\\StressLess.csproj|e:\\\u0443\u043F c#\\stressless\\stressless\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866345D6-3D09-4C1A-A86E-A5F191E093E5}|StressLess\\StressLess.csproj|solutionrelative:stressless\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866345D6-3D09-4C1A-A86E-A5F191E093E5}|StressLess\\StressLess.csproj|E:\\\u0423\u041F C#\\StressLess\\stressless\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866345D6-3D09-4C1A-A86E-A5F191E093E5}|StressLess\\StressLess.csproj|solutionrelative:stressless\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866345D6-3D09-4C1A-A86E-A5F191E093E5}|StressLess\\StressLess.csproj|E:\\\u0423\u041F C#\\StressLess\\stressless\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866345D6-3D09-4C1A-A86E-A5F191E093E5}|StressLess\\StressLess.csproj|solutionrelative:stressless\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866345D6-3D09-4C1A-A86E-A5F191E093E5}|StressLess\\StressLess.csproj|E:\\\u0423\u041F C#\\StressLess\\stressless\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866345D6-3D09-4C1A-A86E-A5F191E093E5}|StressLess\\StressLess.csproj|solutionrelative:stressless\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866345D6-3D09-4C1A-A86E-A5F191E093E5}|StressLess\\StressLess.csproj|E:\\\u0423\u041F C#\\StressLess\\stressless\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866345D6-3D09-4C1A-A86E-A5F191E093E5}|StressLess\\StressLess.csproj|solutionrelative:stressless\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866345D6-3D09-4C1A-A86E-A5F191E093E5}|StressLess\\StressLess.csproj|E:\\\u0423\u041F C#\\StressLess\\stressless\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866345D6-3D09-4C1A-A86E-A5F191E093E5}|StressLess\\StressLess.csproj|solutionrelative:stressless\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866345D6-3D09-4C1A-A86E-A5F191E093E5}|StressLess\\StressLess.csproj|E:\\\u0423\u041F C#\\StressLess\\stressless\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866345D6-3D09-4C1A-A86E-A5F191E093E5}|StressLess\\StressLess.csproj|solutionrelative:stressless\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866345D6-3D09-4C1A-A86E-A5F191E093E5}|StressLess\\StressLess.csproj|E:\\\u0423\u041F C#\\StressLess\\stressless\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{866345D6-3D09-4C1A-A86E-A5F191E093E5}|StressLess\\StressLess.csproj|solutionrelative:stressless\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "E:\\\u0423\u041F C#\\StressLess\\StressLess\\Form4.cs",
+              "RelativeDocumentMoniker": "StressLess\\Form4.cs",
+              "ToolTip": "E:\\\u0423\u041F C#\\StressLess\\StressLess\\Form4.cs",
+              "RelativeToolTip": "StressLess\\Form4.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:48:08.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0423\u041F C#\\StressLess\\StressLess\\Form4.cs",
+              "RelativeDocumentMoniker": "StressLess\\Form4.cs",
+              "ToolTip": "E:\\\u0423\u041F C#\\StressLess\\StressLess\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "StressLess\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:47:08.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "E:\\\u0423\u041F C#\\StressLess\\StressLess\\Form3.cs",
+              "RelativeDocumentMoniker": "StressLess\\Form3.cs",
+              "ToolTip": "E:\\\u0423\u041F C#\\StressLess\\StressLess\\Form3.cs",
+              "RelativeToolTip": "StressLess\\Form3.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwGgAAAAqAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T01:56:36.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0423\u041F C#\\StressLess\\StressLess\\Form3.cs",
+              "RelativeDocumentMoniker": "StressLess\\Form3.cs",
+              "ToolTip": "E:\\\u0423\u041F C#\\StressLess\\StressLess\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "StressLess\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T01:33:12.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\\u0423\u041F C#\\StressLess\\StressLess\\Form2.cs",
+              "RelativeDocumentMoniker": "StressLess\\Form2.cs",
+              "ToolTip": "E:\\\u0423\u041F C#\\StressLess\\StressLess\\Form2.cs",
+              "RelativeToolTip": "StressLess\\Form2.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:50:11.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0423\u041F C#\\StressLess\\StressLess\\Form2.cs",
+              "RelativeDocumentMoniker": "StressLess\\Form2.cs",
+              "ToolTip": "E:\\\u0423\u041F C#\\StressLess\\StressLess\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "StressLess\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:49:17.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\\u0423\u041F C#\\StressLess\\StressLess\\Form1.cs",
+              "RelativeDocumentMoniker": "StressLess\\Form1.cs",
+              "ToolTip": "E:\\\u0423\u041F C#\\StressLess\\StressLess\\Form1.cs",
+              "RelativeToolTip": "StressLess\\Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:48:40.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0423\u041F C#\\StressLess\\StressLess\\Form1.cs",
+              "RelativeDocumentMoniker": "StressLess\\Form1.cs",
+              "ToolTip": "E:\\\u0423\u041F C#\\StressLess\\StressLess\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "StressLess\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:47:26.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
